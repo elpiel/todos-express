@@ -1,0 +1,31 @@
+{
+  "name": "todos-express",
+  "version": "0.0.1",
+  "description": "Back-end simple server for todos and bugs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twify93/todos-express.git"
+  },
+  "keywords": [
+    "todos",
+    "express",
+    "js",
+    "javascript",
+    "expressjs",
+    "backend",
+    "api"
+  ],
+  "author": "Lachezar Lechev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/twify93/todos-express/issues"
+  },
+  "homepage": "https://github.com/twify93/todos-express#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
